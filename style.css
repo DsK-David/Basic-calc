@@ -82,6 +82,7 @@ input[type="button"]{
   color:white;
   height:50px;
   width:80px;
+Padding:0;
 }
 input[name="carregar"]{
 background-color:black;
